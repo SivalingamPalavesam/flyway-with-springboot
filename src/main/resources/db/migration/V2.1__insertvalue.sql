@@ -1,0 +1,2 @@
+INSERT INTO REGISTRATION_USERS(username, first_name, last_name,email,mobile) VALUES('siva', 'sivalingam', 'p','siva@gmail.com','9910121314');
+INSERT INTO REGISTRATION_USERS(username, first_name, last_name,email,mobile) VALUES('sri', 'sri', 'siva','sri@gmail.com','7735888844');
